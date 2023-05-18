@@ -34,4 +34,4 @@ I have two years of experience in software development and have been creating fu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marcokumu&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SnowJunior&icon=0&color=3)](https://visitcount.itsvg.in)
