@@ -9,13 +9,9 @@ I have two years of experience in software development and have been creating fu
 
 ## 🌐 Socials:![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <p align="left">
-<a href="https://twitter.com/markokumu5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markokumu5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/markokumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markokumu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18058114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18058114" height="30" width="40" /></a>
-<a href="https://instagram.com/mark.okumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mark.okumu" height="30" width="40" /></a>
-<a href="https://medium.com/@marcokumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marcokumu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/marcokumu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="marcokumu10" height="30" width="40" /></a>
-<a href="https://dev.to/marcokumu"><img height="35" align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+<a href="https://twitter.com/snowthetechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="markokumu5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/george-onyango-78069b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markokumu" height="30" width="40" /></a>
+<a href="https://snowsnippets.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@marcokumu" height="30" width="40" /></a>
 </p>
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
