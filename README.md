@@ -18,7 +18,7 @@ I have two years of experience in software development and have been creating fu
 
 # 📊 GitHub Stats:
 ![Okumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowJunior&show_icons=true&theme=radical)
-<img align="right" alt="Coding" width="250" top="-50" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<p><img align="right" width="250" top="-50"  src="https://github-readme-streak-stats.herokuapp.com/?user=SnowJunior&" alt="Snow" /></p>
 
 
 
