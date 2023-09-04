@@ -17,7 +17,7 @@ I have two years of experience in software development and have been creating fu
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
 
 # 📊 GitHub Stats:
-![Okumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowJunior&show_icons=true&theme=radical)
+![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowJunior&show_icons=true&theme=radical)
 
 
 ## 🏆 GitHub Trophies
