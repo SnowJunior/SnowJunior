@@ -7,7 +7,7 @@ I have three years of experience in software development and have been creating 
 *   🌍  I'm based in Africa
 
 
-## 🌐 Socials:![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/snowthetechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snow" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/george-onyango-78069b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snow" height="30" width="40" /></a>
