@@ -18,6 +18,7 @@ I have three years of experience in software development and have been creating 
 
 # 📊 GitHub Stats:
 ![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowJunior&show_icons=true&theme=radical)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SnowJunior&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 # 🪜 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowJunior&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
