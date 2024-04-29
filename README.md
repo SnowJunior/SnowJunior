@@ -17,7 +17,6 @@ I have three years of experience in software development and have been creating 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
 
 # 📊 GitHub Stats:
-![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowJunior&show_icons=true&theme=radical)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SnowJunior&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 # 🪜 Language
