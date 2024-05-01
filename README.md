@@ -18,7 +18,7 @@ I have three years of experience in software development and have been creating 
 
 # 📊 GitHub Stats:
 ![Snow's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowJunior&show_icons=true&theme=radical)
-[![Snow's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SnowJunior)](https://github.com/SnowJunior/SnowJunior)
+[![Snow's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snow_jr)](https://github.com/SnowJunior/SnowJunior)
 
 # 🪜 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowJunior&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
