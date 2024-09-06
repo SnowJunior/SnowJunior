@@ -5,6 +5,7 @@
 I have 3+ years of experience in software development and have been creating full-stack web applications using React, Typescript, Golang,and android applications using Flutter ,Dart and Kotlin.<br><br>I work well with others. In addition to developing websites.<br><br>I have a creative mind and a passion for developing user-friendly websites and mobile applications. In addition, I actively search out new technologies, enjoy reading and writing blog posts, and keep up with business trends and breakthroughs.
 
 *   🌍  I'm based in Africa
+*   [1x engineer](https://1x.engineer) 
 
 
 ## 🌐 Socials:
